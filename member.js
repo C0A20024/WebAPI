@@ -17,6 +17,10 @@ app.get("/members", (req,res) => {
        id: 3,
        name: "wrench",
      },
+     {
+       id: 4,
+       name: "hammer",
+     },
    ];
 
   res.json(products);
