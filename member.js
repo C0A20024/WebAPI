@@ -5,8 +5,8 @@ const port = 3000;
 app.get("/members", (req,res) => {
    const products = [
      {
-       id: 1,
-       name: "hammer",
+       id: "c0a20024",
+       name: "内山幸大",
      },
      {
        id: 2,
