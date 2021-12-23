@@ -9,17 +9,17 @@ app.get("/members", (req,res) => {
        name: "内山幸大",
      },
      {
-       id: "c0a20025"
+       id: "c0a20025",
        name: "榎本海斗",
      },
      ,
      {
-       id: "c0a20064,
+       id: "c0a20064",
        name: "小林千紗",
      },
      {
-       id: 4,
-       name: "hammer",
+       id: "c0a20062",
+       name: "行田早希",
      },
    ];
 
